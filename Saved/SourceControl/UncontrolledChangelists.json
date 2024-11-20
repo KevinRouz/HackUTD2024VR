@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kevin/OneDrive/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/kevin/OneDrive/Documents/Unreal Projects/MyProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/kevin/OneDrive/Documents/Unreal Projects/MyProject/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/kevin/OneDrive/Documents/Unreal Projects/MyProject/Content/VRTemplate/Blueprints/SpeechToText.uasset",
+				"C:/Users/kevin/OneDrive/Documents/Unreal Projects/MyProject/Content/Sounds/NewSubmix.uasset",
+				"C:/Users/kevin/OneDrive/Documents/Unreal Projects/MyProject/Content/Submix.uasset",
+				"C:/Users/kevin/OneDrive/Documents/Unreal Projects/MyProject/Content/VRTemplate/Blueprints/WidgetMenu.uasset",
+				"C:/Users/kevin/OneDrive/Documents/Unreal Projects/MyProject/Content/VRTemplate/Blueprints/Menu.uasset",
+				"C:/Users/kevin/OneDrive/Documents/Unreal Projects/MyProject/Content/VRTemplate/Blueprints/TextHUD.uasset",
+				"C:/Users/kevin/OneDrive/Documents/Unreal Projects/MyProject/Content/HUD.uasset",
+				"C:/Users/kevin/OneDrive/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/PassthroughLayerActor.uasset"
+			]
+		}
+	]
+}

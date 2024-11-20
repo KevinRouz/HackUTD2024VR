@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\kevin\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\kevin\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyProject.init.gen.cpp.obj"
+"C:\Users\kevin\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\WavFileSender.gen.cpp.obj"
+"C:\Users\kevin\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyProject.cpp.obj"
+"C:\Users\kevin\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\WavFileSender.cpp.obj"
+"C:\Users\kevin\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\Default.rc2.res"
+/OUT:"C:\Users\kevin\OneDrive\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\UnrealEditor-MyProject.lib"
